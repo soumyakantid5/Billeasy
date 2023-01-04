@@ -5,3 +5,5 @@ billeasy-production.up.railway.app
 
 /getemp
 /getdept
+
+
